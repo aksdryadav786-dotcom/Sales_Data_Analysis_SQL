@@ -46,6 +46,6 @@ Columns:
 ```sql
 SELECT SUM(quantity * price) AS total_revenue
 FROM sales;
-
+```
 ## 👨‍💻 Author
 Arvind Yadav
