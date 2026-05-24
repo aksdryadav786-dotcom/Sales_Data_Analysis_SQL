@@ -49,3 +49,7 @@ FROM sales;
 SELECT product_name, price
 FROM sales
 WHERE price > 10000;
+
+👨‍💻 Author
+
+Arvind Yadav
